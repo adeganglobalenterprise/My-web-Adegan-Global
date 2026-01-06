@@ -1,0 +1,30 @@
+{
+  "name": "Adegan Global Enterprise",
+  "short_name": "Adegan Global",
+  "description": "Your Complete Business Solution - Digital Marketing, Web Design, Photography, Construction, Engineering & More",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "279c8cd4e9727b46d248597f9c7f4683_0.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "279c8cd4e9727b46d248597f9c7f4683_0.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "categories": ["business", "services", "consulting"],
+  "screenshots": [
+    {
+      "src": "/screenshot.png",
+      "sizes": "1280x720",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# Adegan Global Enterprise - Robots.txt
+# Allow all robots to crawl the site
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://adeganglobalenterprise.com/sitemap.xml
+
+# Disallow specific directories if needed (currently none)
+# Disallow: /private/
+# Disallow: /admin/
+
+# Crawl delay (optional - adjust as needed)
+# Crawl-delay: 1
