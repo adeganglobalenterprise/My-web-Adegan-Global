@@ -1,0 +1,10 @@
+./css/styles.css
+./index.html
+./outputs/workspace_output_1767498889_9353.txt
+./outputs/workspace_output_1767498861_7790.txt
+./outputs/workspace_output_1767498166_9516.txt
+./outputs/workspace_output_1767499192_6214.txt
+./manifest.json
+./sitemap.xml
+./robots.txt
+./js/main.js

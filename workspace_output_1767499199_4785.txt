@@ -1,0 +1,11 @@
+total 64K
+drwxr-xr-x 2 root root 4.0K Jan  4 03:42 assets
+drwxr-xr-x 2 root root 4.0K Jan  4 03:44 css
+drwxr-xr-x 2 root root 4.0K Jan  4 03:59 docs
+-rw-r--r-- 1 root root  25K Jan  4 03:48 index.html
+drwxr-xr-x 2 root root 4.0K Jan  4 03:45 js
+-rw-r--r-- 1 root root  779 Jan  4 03:48 manifest.json
+drwxr-xr-x 2 root root 4.0K Jan  4 03:59 outputs
+-rw-r--r-- 1 root root  340 Jan  4 03:48 robots.txt
+-rw-r--r-- 1 root root 1.5K Jan  4 03:48 sitemap.xml
+-rw-r--r-- 1 root root 1.3K Jan  4 03:59 todo.md
